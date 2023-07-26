@@ -1,0 +1,17 @@
+SIMPLE BALL CATCHER GAME IN PYTHON
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+
+***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+
+
+***** FOR MORE PROJECTS :- https://code-projects.org/ *****
+
+Softwares: 
+-> Install Python 2.3.5, 
+-> Install Pygame 1.6 
+-> LiveWires 2.0 
+
+
+#THANK YOU FOR DOWNLOADING

@@ -1,0 +1,4 @@
+Softwares: 
+-> Install Python 2.3.5, 
+-> Install Pygame 1.6 
+-> LiveWires 2.0 
